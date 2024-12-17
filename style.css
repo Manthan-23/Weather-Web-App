@@ -1,0 +1,49 @@
+* {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.row{
+    height: 100vh;
+}
+
+#examplecity{
+    width: 93%;
+}
+
+#weather-info{
+    height: 70vh;
+    background-color: #FFFFF0;
+}
+
+#temp{
+    font-size: 10rem;
+}
+
+#col-1{
+    background-color: #F5F5DC;
+}
+
+#col-2{
+    background-color: #F9F6EE;
+}
+
+#desc{
+    font-size: 3rem;
+    margin-top: -3rem;
+    color: #A9A9A9;
+}
+
+#wind{
+    font-size: 1.5rem;
+    color: #A9A9A9;
+}
+
+#humd{
+    font-size: 1.5rem;
+    color: #A9A9A9;
+}
+
+#welcome{
+    font-size: 3.5rem;
+    margin-top: 15rem;
+}
